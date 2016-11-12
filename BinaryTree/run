@@ -1,0 +1,2 @@
+g++ binarysearchtree.cpp -o binarysearchtree
+./binarysearchtree
